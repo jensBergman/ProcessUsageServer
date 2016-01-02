@@ -1,1 +1,1 @@
-c++ server, creates a new process for each new connecting client
+c++ server, creates a new process for each new connecting client. The server is not implemented to be used, but to understand and get experience with fork() (i.e. creates new processes).
